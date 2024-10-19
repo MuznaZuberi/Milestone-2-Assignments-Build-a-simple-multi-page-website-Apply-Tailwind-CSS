@@ -7,7 +7,7 @@
 ##### This project is built with Next.js, leveraging server-side rendering (SSR) for fast, SEO-optimized pages. Tailwind CSS ensures a fully responsive and sleek UI, while custom icons enhance the user experience
 
 ## Live Demo 🌐
-You can view the live version of the Sizzels website here:
+### You can view the live version of the Sizzels website here:
 ()
 
 ## ✨ Features
