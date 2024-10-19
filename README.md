@@ -1,4 +1,4 @@
-# Sezzels Restaurant 🍔🍹🍕🍝🍴🍰 
+# Sizzels_Serve Restaurant 🍔🍹🍕🍝🍴🍰 
 ##### Welcome to Sezzels Restaurant — a sleek, modern, and fully responsive food ordering and reservation website. Whether you're exploring the menu, reserving a table, or discovering the chef’s specials, Sezzels delivers a seamless dining experience online.
 
 ## 🍽️ Intro
