@@ -30,7 +30,7 @@ export default function Cover() {
                        Mouth Brimming with Flavor
              </h1>
              <p className="mb-8 leading-relaxed font-serif text-white">
-                       Sizzles is a restaurant that boasts tempting flavors, encouraging visitors to explore a diverse menu filled with sizzling delights. From gourmet meals to beloved local favorites, Sizzles offers outstanding culinary experiences that will keep you coming back for more. Whether you're in the mood for a light bite or a full meal, Sizzles is the perfect place for delightful dining.
+                       Sizzles is a restaurant that boasts tempting flavors, encouraging visitors to explore a diverse menu filled with sizzling delights. From gourmet meals to beloved local favorites, Sizzles offers outstanding culinary experiences that will keep you coming back for more.No matter if you want a small snack or a hearty meal, Sizzles is the ideal spot for enjoyable dining experiences.
              </p>
 
 
