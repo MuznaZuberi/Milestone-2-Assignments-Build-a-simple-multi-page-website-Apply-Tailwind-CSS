@@ -28,8 +28,7 @@ export default function Contact() {
          <div className="container px-5 py-20 mx-auto flex">
          <div className="lg:w-1/3 md:w-1/2 bg-black rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0 relative z-10 shadow-md">
            <p className="leading-relaxed mb-5 font-serif text-white">
-              At Sizzels, we’re eager to hear from you! Whether you have questions,or want to make a reservation, our team is here to assist you. Reach out to us and experience the delicious world of flavors we offer!      
-           </p>
+             At Sizzels, we’re eager to hear from you! If you have inquiries or wish to book a reservation, our team is ready to help you.Reach out to us and experience the delicious world of flavors we offer!           </p>
          <div className="relative mb-4">
          <label htmlFor="email" className="leading-7 text-sm  font-serif text-white">
             Email
