@@ -102,7 +102,7 @@ export default function Menu() {
                 />
                   <h1 className = "font-bold font-serif text-orange-600 text-xl text-center pt-16">Veg  <b className = "text-black"> Combo</b>
                   </h1>
-                   <p className = "font-serif text-md text-center p-3">Veg Combo is a vibrant selection of seasonal vegetables, expertly prepared to highlight their natural flavors. This colorful medley is served with a variety of dips and sauces, offering a deliciously satisfying and wholesome experience for veggie enthusiasts.
+                   <p className = "font-serif text-md text-center p-3">The Veg Combo features a lively assortment of seasonal vegetables, skillfully cooked to emphasize their inherent flavors. This colorful medley is served with a variety of dips and sauces, offering a deliciously satisfying and wholesome experience for veggie enthusiasts.
                    </p>  
                    <div className = "mx-auto text-center m-3 bg-orange-600 text-white p-2 mb-7 w-[120px] rounded-xl hover:bg-black hover:text-white">
                       <Link href = "/menu">Read More</Link>  
