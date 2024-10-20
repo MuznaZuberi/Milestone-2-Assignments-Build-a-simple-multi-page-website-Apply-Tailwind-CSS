@@ -16,7 +16,7 @@ export default function Footer() {
            src = {require("../../../img/logo.jpg")}
            />
 
-           <h1 className="text-4xl font-bold font-serif text-black">Sizzels</h1>
+           <h1 className="text-4xl font-bold font-serif text-black">Sizzels_Serve</h1>
            </a>
            <p className="text-sm text-black font-serif sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">
                                                © 2024 Sizzels_Serve —
