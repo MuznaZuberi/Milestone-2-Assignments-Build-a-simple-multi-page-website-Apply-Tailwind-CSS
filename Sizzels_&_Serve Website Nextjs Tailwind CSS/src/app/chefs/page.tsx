@@ -97,7 +97,8 @@ export default function Our_Chefs() {
                   src={require("../../../img/img_08.jpg")}
                  />
                  <h1 className = "font-bold font-serif text-orange-600 text-xl text-center pt-20">Tom Kerridge</h1>
-                  <p className = "font-serif text-md text-center p-3">He is a skilled chef and restaurateur, recognized for his creative take on British cuisine. With a focus on high-quality ingredients and crafting robust, tasty dishes, he has made a notable impact on the culinary world. Tom is acclaimed for his award-winning establishments, including  The Hand & Flowers, which boasts two Michelin stars. His friendly demeanor and commitment to educating others establish him as a respected figure.</p>
+                  <p className = "font-serif text-md text-center p-3">He is a skilled chef and restaurateur, recognized for his creative take on British cuisine. With a focus on high-quality ingredients and crafting robust, tasty dishes, he has made a notable impact on the culinary world.Tom is renowned for his award-winning restaurants, such as The Hand & Flowers, which holds two Michelin stars.
+                    His friendly demeanor and commitment to educating others establish him as a respected figure.</p>
 
                   <span className="inline-flex p-4">
                     <a className="text-orange-600 ">
