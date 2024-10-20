@@ -43,7 +43,7 @@ export default function Menu() {
                 />
                   <h1 className = "font-bold font-serif text-orange-600 text-xl text-center pt-16">Easter <b className = "text-black"> Delight</b>
                   </h1>
-                   <p className = "font-serif text-md text-center p-3">Easter Delight is a joyful dessert that combines a variety of flavors, showcasing layers of decadent chocolate, fluffy frosting, and fresh seasonal fruits.This indulgent treat captures the essence of Easter celebrations, making it a perfect centerpiece for any festive gathering.
+                   <p className = "font-serif text-md text-center p-3">Easter Delight is a joyful dessert that combines a variety of flavors, showcasing layers of decadent chocolate, fluffy frosting, and fresh seasonal fruits.This indulgent treat captures the essence of Easter Easter Delight is a joyful dessert that combines a variety of flavors, showcasing layers of decadent chocolate, fluffy frosting, and fresh seasonal fruits.This indulgent treat captures the essence of Easter festivities, establishing it as an ideal focal point for any celebratory occasion.
                    </p> 
                    <div className = "mx-auto text-center m-3 bg-orange-600 text-white p-2 mb-7 w-[120px] rounded-xl hover:bg-black hover:text-white">
                      <Link href = "/menu">Read More</Link>  
