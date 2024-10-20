@@ -161,7 +161,7 @@ export default function Our_Chefs() {
                     src={require("../../../img/img_09.jpg")}
                    />
                    <h1 className = "font-bold font-serif text-orange-600 text-xl text-center pt-20">Nigella Lawson</h1>
-                   <p className = "font-serif text-md text-center p-3">She is an experienced chef, food writer, and television personality known for  approachable and indulgent style of cooking. With a career spanning over two decades, she has captivated audiences with  passion for food and  ability to make cooking accessible and enjoyable. Nigella is celebrated for  bestselling cookbooks and popular cooking shows, where she shares  love for rich flavors and comforting dishes.
+                   <p className = "font-serif text-md text-center p-3">She is a seasoned chef, culinary author, and TV personality recognized for her accessible and luxurious cooking style. With a career spanning over two decades, she has captivated audiences with  passion for food and  ability to make cooking accessible and enjoyable. Nigella is celebrated for  bestselling cookbooks and popular cooking shows, where she shares  love for rich flavors and comforting dishes.
                    </p>
 
                   <span className="inline-flex p-4">
