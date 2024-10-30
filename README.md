@@ -8,7 +8,7 @@
 
 ## Live Demo 🌐
 ### You can view the live version of the Sizzels website here:
-(https://sizzels-serve-resturant.vercel.app/)
+(https://sizzelsserve.vercel.app/)
 
 ## ✨ Features
 #### . Fully Responsive: Flawlessly adapts to mobile, tablet, and desktop screens.
